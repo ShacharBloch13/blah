@@ -1,1 +1,1 @@
-"# DB_2023" 
+This is Shachar and Fernando's Git for DB course
